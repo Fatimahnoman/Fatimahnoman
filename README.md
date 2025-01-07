@@ -4,8 +4,7 @@ A passionate beginner Python developer focused on turning creative designs into 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faham4&label=Profile%20views&color=0e75b6&style=flat" alt="Fatimahnoman" /> </p>
-<a href="https://faham4.github.io/My-Portfolio/" target="_blank">
+<p align="left"> 
     <img src="https://static.wixstatic.com/media/a27d24_aab4b1abedb64829a86c6066b83cbda9~mv2.gif" height="80" alt="Read More" />
   </a>
 
