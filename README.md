@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fatimah Noman/h1>
+<h3 align="center">>Hi, I'm Fatimah Noman 👋
+A passionate beginner Python developer focused on turning creative designs into interactive applications. I'm learning Python to build impactful solutions and continuously improve my skills. Check out my repositories to follow my coding journey! 🌱.</h3>
 
-<!--
-**Fatimahnoman/Fatimahnoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faham4&label=Profile%20views&color=0e75b6&style=flat" alt="Fatimahnoman" /> </p>
+<a href="https://faham4.github.io/My-Portfolio/" target="_blank">
+    <img src="https://static.wixstatic.com/media/a27d24_aab4b1abedb64829a86c6066b83cbda9~mv2.gif" height="80" alt="Read More" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+       
+
+- 🌱 I’m currently learning **python**
+
+- 💬 Ask me about **python developer**
+
+- 📫 How to reach me **fatimahnoman640@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<div  dir="auto"
+  <a href="fatimahnoman640@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" style="max-width: 100%;">
+  </a>
+  <a href="https://www.linkedin.com/in/fatimah-noman-3927b3342/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" style="max-width: 100%;">
+    </a>
+</p>
+
+
+
+
+
+
