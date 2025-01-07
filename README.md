@@ -2,7 +2,7 @@
 <h3 align="center">>Hi, I'm Fatimah Noman 👋
 A passionate beginner Python developer focused on turning creative designs into interactive applications. I'm learning Python to build impactful solutions and continuously improve my skills. Check out my repositories to follow my coding journey! 🌱.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> 
     <img src="https://static.wixstatic.com/media/a27d24_aab4b1abedb64829a86c6066b83cbda9~mv2.gif" height="80" alt="Read More" />
