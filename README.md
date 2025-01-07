@@ -4,9 +4,8 @@ A passionate beginner Python developer focused on turning creative designs into 
 
 
 
-<p align="left"> 
-    <img src="https://static.wixstatic.com/media/a27d24_aab4b1abedb64829a86c6066b83cbda9~mv2.gif" height="80" alt="Read More" />
-  </a>
+<img align="right" alt="Lady Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
        
 
