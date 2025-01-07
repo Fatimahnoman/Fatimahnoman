@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatimah Noman/h1>
+<h1 align="center">Hi 👋, I'm Fatimah Noman</h1>
 <h3 align="center">>Hi, I'm Fatimah Noman 👋
 A passionate beginner Python developer focused on turning creative designs into interactive applications. I'm learning Python to build impactful solutions and continuously improve my skills. Check out my repositories to follow my coding journey! 🌱.</h3>
 
