@@ -9,11 +9,11 @@ A passionate beginner Python developer focused on turning creative designs into 
 
        
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Spec-Driven Development**
 
-- 💬 Ask me about **python developer**
+- 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **fatimahnoman640@gmail.com**
+- 📫 How to reach me **fatimahnoman452@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
