@@ -35,7 +35,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
 - 🧠 **OpenAI SDK / Agent ecosystems**
 - 🧩 **Context and state management for AI Workflows**
 - ✍️ **Prompt Engineering & Agent design**
-- 🌐 **HTML, CSS, TypeScript, Next.js & Python**
+- 🌐 **HTML, CSS, TypeScript, Next.js**
 - 🗄️ **Databases REST APIs, JSON, and modern backend patterns**
 
 ---
