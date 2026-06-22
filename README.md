@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fatimah Noman</h1>
 <h3 align="center">
-✨ A Passionate Full-Stack Developer | Python & Agentic AI Learner ✨
+✨Agentic AI Developer | Web Developer✨
 </h3>
 
 <p align="center">
-I love turning <b>creative ideas</b> into <b>real, interactive applications</b> 🚀  
+I love turning <b>Creative Ideas</b> into <b>real, Interactive Applications</b> 🚀  
 Focused on clean logic, modern tools, and continuous learning.
 </p>
 
@@ -22,26 +22,26 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
 ---
 
 ### 📚 Currently Learning
-- 🧠 **Spec-Driven Development**
-- 🤖 **Agentic AI (Agents, Context, Tools, Guardrails)**
-- 🌐 **Modern Full-Stack Practices**
+🧠 Specification‑Driven Development (clear contracts, fewer surprises)
+🤖 Agentic AI (Agents, Context, Tools, Guardrails, Agent SDKs)
+🌐 Modern Full‑Stack Practices (Next.js, React, FastAPI, REST/JSON APIs)
 
 ---
 
 ### 🛠️ Languages & Tools I Work With
-- 🐍 **Python**
-- 🧠 **OpenAI SDK**
-- 🧩 **Context Management**
-- ✍️ **Prompt Engineering**
-- 🌐 **HTML, CSS, JavaScript**
-- 🗄️ **Databases & APIs**
+- 🐍 **Python & FastAPI**
+- 🧠 **OpenAI SDK / Agent ecosystems**
+- 🧩 **Context and state management for AI Workflows**
+- ✍️ **Prompt Engineering & Agent design**
+- 🌐 **HTML, CSS, TypeScript, Next.js**
+- 🗄️ **Databases REST APIs, JSON, and modern backend patterns**
 
 ---
 
 ### 💬 Ask Me About
 - Full-Stack Web Development  
-- Python Programming  
-- OpenAI SDK & Agentic AI Concepts  
+- Python Programming & backend services
+- OpenAI SDK , Agentic AI Concepts and Building AI‑driven Apps
 
 ---
 
