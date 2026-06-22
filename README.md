@@ -58,12 +58,16 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
       width="45" height="35" alt="gmail logo"/>
   </a>
-   <a href="https://x.com/noman62987"
   <a href="https://www.linkedin.com/in/fatimah-noman-3927b3342/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
       width="45" height="35" alt="linkedin logo"/>
   </a>
+  <a href="https://x.com/noman62987" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
+      width="45" height="35" alt="twitter logo"/>
+  </a>
 </p>
+
 
 ---
 
