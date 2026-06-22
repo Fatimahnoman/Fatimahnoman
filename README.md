@@ -22,8 +22,10 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
 ---
 
 ### 📚 Currently Learning
-🧠 Specification‑Driven Development (clear contracts, fewer surprises)
+🧠 Specification‑Driven Development (clear contracts, fewer surprises)    
+
 🤖 Agentic AI (Agents, Context, Tools, Guardrails, Agent SDKs)
+
 🌐 Modern Full‑Stack Practices (Next.js, React, FastAPI, REST/JSON APIs)
 
 ---
