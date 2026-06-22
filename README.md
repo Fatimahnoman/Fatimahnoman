@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatimah Noman</h1>
 <h3 align="center">
-✨Agentic AI Developer | Web Developer✨
+✨Agentic AI Engineer | Full-Stack Web Developer✨
 </h3>
 
 <p align="center">
