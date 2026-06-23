@@ -7,10 +7,7 @@
 I love turning <b>Creative Ideas</b> into <b>real, Interactive Applications</b> 🚀  
 Focused on clean logic, modern tools, and continuous learning.
 </p>
-
-<img align="right" alt="Lady Coding" width="380" 
-src=" <img width="1448" height="1086" alt="gitubreadme" src="https://github.com/user-attachments/assets/0a627dd5-c9e7-41fd-8404-2f9e70b8517e"/>
-
+<img align="right" alt="Lady Coding" width="380" src="https://github.com/user-attachments/assets/0a627dd5-c9e7-41fd-8404-2f9e70b8517e"/>
 ---
 
 ### 🌸 About Me
