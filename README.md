@@ -9,7 +9,7 @@ Focused on clean logic, modern tools, and continuous learning.
 </p>
 
 <img align="right" alt="Lady Coding" width="380" 
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+src=" <img width="1448" height="1086" alt="gitubreadme" src="https://github.com/user-attachments/assets/0a627dd5-c9e7-41fd-8404-2f9e70b8517e"/>
 
 ---
 
