@@ -49,7 +49,7 @@ Focused on clean logic, modern tools, and continuous learning.
 
 📧 **Email:** **fatimahnoman452@gmail.com**
 
-🌐 **Portfolio:** *(https://myportfolio-git-main-fatima-nomans-projects.vercel.app/)*
+🌐 **Portfolio:** *https://myportfolio-git-main-fatima-nomans-projects.vercel.app/*
 
 🐙 **GitHub:** https://github.com/Fatimahnoman
 
