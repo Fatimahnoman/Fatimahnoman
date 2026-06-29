@@ -63,6 +63,10 @@ Focused on clean logic, modern tools, and continuous learning.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
     width="45" height="35" alt="instagram logo"/>
 </a>
+  <a href="https://www.facebook.com/fatimah.noman452" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
+    width="45" height="35" alt="facebook logo"/>
+</a>
   </a>
 </p>
 
