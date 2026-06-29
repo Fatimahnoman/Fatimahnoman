@@ -59,6 +59,10 @@ Focused on clean logic, modern tools, and continuous learning.
   <a href="https://x.com/noman62987" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
       width="45" height="35" alt="twitter logo"/>
+  <a href="https://instagram.com/fatimah_builds_ai/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+    width="45" height="35" alt="instagram logo"/>
+</a>
   </a>
 </p>
 
