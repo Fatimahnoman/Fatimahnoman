@@ -46,7 +46,19 @@ Focused on clean logic, modern tools, and continuous learning.
 ---
 
 ### 📫 How to Reach Me
-📧 **Email:** fatimahnoman452@gmail.com  
+
+📧 **Email:** **fatimahnoman452@gmail.com**
+
+🌐 **Portfolio:** *(https://myportfolio-git-main-fatima-nomans-projects.vercel.app/)*
+
+🐙 **GitHub:** https://github.com/Fatimahnoman
+
+✖️ **X:** https://x.com/FatimahBuildsAI
+
+📸 **Instagram:** https://instagram.com/fatimah_builds_ai/
+
+📘 **Facebook:** https://www.facebook.com/fatimah.noman452
+
 
 ---
 
