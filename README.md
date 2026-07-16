@@ -13,16 +13,16 @@ Focused on clean logic, modern tools, and continuous learning.
 
 ### 🌸 About Me
 - 💻 Passionate about **Full-Stack Development**
-- 🤖 Exploring the future with **Agentic AI**
+- 🤖 Exploring the Future with **Agentic AI**
 - 📈 Believe in **learning by building & improving every day**
-- 🌱 Constantly upgrading my skills through real projects
+- 🌱 Constantly upgrading my Skills through Real Projects
 
 ---
 
 ### 📚 Currently Learning
 🧠 Specification‑Driven Development (clear contracts, fewer surprises)    
 
-🤖 Agentic AI (Agents, Context, Tools, Guardrails, Agent SDKs)
+🤖 Agentic AI (Agents, Context, Tools, Guardrails, Agent SDKs and OpenClaw)
 
 🌐 Modern Full‑Stack Practices (Next.js, React, FastAPI, REST/JSON APIs)
 
