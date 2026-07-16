@@ -55,8 +55,6 @@ Focused on clean logic, modern tools, and continuous learning.
 
 🐙 **GitHub:** [github.com/Fatimahnoman](https://github.com/Fatimahnoman)
 
-💼 **LinkedIn:** [linkedin.com/in/fatima-noman-873b42420](https://www.linkedin.com/in/fatima-noman-873b42420/)
-
 ✖️ **X (Twitter):** [x.com/FatimahBuildsAI](https://x.com/FatimahBuildsAI)
 
 📸 **Instagram:** [instagram.com/fatimah_builds_ai](https://instagram.com/fatimah_builds_ai/)
@@ -72,12 +70,6 @@ Focused on clean logic, modern tools, and continuous learning.
   <a href="mailto:fatimahnoman452@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
          width="45" height="35" alt="gmail logo"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/fatima-noman-873b42420/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-         width="45" height="35" alt="linkedin logo"/>
   </a>
 
   <!-- Twitter / X -->
