@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatimah Noman</h1>
+<h1 align="center">Hi 👋, I'm Fatima Noman</h1>
 <h3 align="center">
 ✨Agentic AI Engineer | Full-Stack Web Developer✨
 </h3>
@@ -14,8 +14,8 @@ Focused on clean logic, modern tools, and continuous learning.
 ### 🌸 About Me
 - 💻 Passionate about **Full-Stack Development**
 - 🤖 Exploring the Future with **Agentic AI**
-- 📈 Believe in **learning by building & improving every day**
-- 🌱 Constantly upgrading my Skills through Real Projects
+- 📈 Believe in **learning by Building & Improving every day**
+- 🌱 Constantly upgrading my **Skills through Real Projects**
 
 ---
 
@@ -39,9 +39,11 @@ Focused on clean logic, modern tools, and continuous learning.
 ---
 
 ### 💬 Ask Me About
-- Full-Stack Web Development  
-- Python Programming & backend services
-- OpenAI SDK , Agentic AI Concepts and Building AI‑driven Apps
+
+- 🌐 Full-Stack Web Development (Frontend, Backend & APIs)
+- 🐍 Python Programming & Backend Development
+- 🤖 Agentic AI, OpenAI SDK & AI Agent Development
+- ⚙️ Building AI-Powered Applications, Automation & Agentic AI Projects
 
 ---
 
