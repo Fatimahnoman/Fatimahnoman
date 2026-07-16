@@ -61,27 +61,39 @@ Focused on clean logic, modern tools, and continuous learning.
 
 
 ---
-
 <h3 align="left">🤝 Connect with Me</h3>
+
 <p align="left">
+  <!-- Gmail -->
   <a href="mailto:fatimahnoman452@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-      width="45" height="35" alt="gmail logo"/>
+         width="45" height="35" alt="gmail logo"/>
   </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/fatima-noman-873b42420/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="45" height="35" alt="linkedin logo"/>
+  </a>
+
+  <!-- Twitter / X -->
   <a href="https://x.com/noman62987" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
-      width="45" height="35" alt="twitter logo"/>
+         width="45" height="35" alt="twitter logo"/>
+  </a>
+
+  <!-- Instagram -->
   <a href="https://instagram.com/fatimah_builds_ai/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-    width="45" height="35" alt="instagram logo"/>
-</a>
+         width="45" height="35" alt="instagram logo"/>
+  </a>
+
+  <!-- Facebook -->
   <a href="https://www.facebook.com/fatimah.noman452" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
-    width="45" height="35" alt="facebook logo"/>
-</a>
+         width="45" height="35" alt="facebook logo"/>
   </a>
 </p>
-
 
 ---
 
