@@ -20,11 +20,11 @@ Focused on clean logic, modern tools, and continuous learning.
 ---
 
 ### 📚 Currently Learning
-🧠 Specification‑Driven Development (clear contracts, fewer surprises)    
+🧠 Specification‑Driven Development (clear contracts, fewer surprises
 
-🤖 Agentic AI (Agents, Context, Tools, Guardrails, Agent SDKs and OpenClaw)
+🤖 Agentic AI (Agents, Context, Tools, Guardrails, Agent SDKs and OpenClaw
 
-🌐 Modern Full‑Stack Practices (Next.js, React, FastAPI, REST/JSON APIs)
+🌐 Modern Full‑Stack Practices (Next.js, React, FastAPI, REST/JSON APIs
 
 ---
 
