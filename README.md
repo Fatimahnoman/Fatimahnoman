@@ -49,15 +49,17 @@ Focused on clean logic, modern tools, and continuous learning.
 
 📧 **Email:** **fatimahnoman452@gmail.com**
 
-🌐 **Portfolio:** *https://myportfolio-git-main-fatima-nomans-projects.vercel.app/*
+🌐 **Portfolio:** [myportfolio-git-main-fatima-nomans-projects.vercel.app](https://myportfolio-git-main-fatima-nomans-projects.vercel.app/)
 
-🐙 **GitHub:** https://github.com/Fatimahnoman
+🐙 **GitHub:** [github.com/Fatimahnoman](https://github.com/Fatimahnoman)
 
-✖️ **X:** https://x.com/FatimahBuildsAI
+💼 **LinkedIn:** [linkedin.com/in/fatima-noman-873b42420](https://www.linkedin.com/in/fatima-noman-873b42420/)
 
-📸 **Instagram:** https://instagram.com/fatimah_builds_ai/
+✖️ **X (Twitter):** [x.com/FatimahBuildsAI](https://x.com/FatimahBuildsAI)
 
-📘 **Facebook:** https://www.facebook.com/fatimah.noman452
+📸 **Instagram:** [instagram.com/fatimah_builds_ai](https://instagram.com/fatimah_builds_ai/)
+
+📘 **Facebook:** [facebook.com/fatimah.noman452](https://www.facebook.com/fatimah.noman452)
 
 
 ---
